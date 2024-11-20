@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsRaj7
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m want to be Software Devloper
 - 📫 How to reach me Email : itshimanshuraj07@gmail.com Insta : @itshimanshuraj07
 - 😄 Pronouns: He/Him
 
